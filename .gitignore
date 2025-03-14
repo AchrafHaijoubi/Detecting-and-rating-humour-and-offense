@@ -1,0 +1,40 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Ignore virtual environment
+venv/
+.env/
+*.venv/
+
+# Ignore Jupyter notebook checkpoints
+notebooks/.ipynb_checkpoints/
+
+# Ignore model files and checkpoints
+models/
+*.h5
+*.pth
+*.ckpt
+*.joblib
+*.pkl
+
+# Ignore logs and results
+logs/
+*.log
+results/
+*.png
+*.csv
+*.txt
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore dependency caches
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignore environment variables
+.env

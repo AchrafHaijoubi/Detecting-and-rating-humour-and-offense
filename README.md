@@ -1,1 +1,0 @@
-# Detecting-and-rating-humour-and-offense

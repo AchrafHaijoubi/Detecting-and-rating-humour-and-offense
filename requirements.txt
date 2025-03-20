@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-tensorflow
-torch
-tensorflow_hub
-=======
-tensorflow
-torch
->>>>>>> 82d4823e23c0d91c91d4c2e774997eee80e497ee

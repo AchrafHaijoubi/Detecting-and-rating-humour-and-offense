@@ -1,0 +1,3 @@
+tensorflow
+torch
+tensorflow_hub
